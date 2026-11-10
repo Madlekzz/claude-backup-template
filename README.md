@@ -160,3 +160,7 @@ These are raw Claude Design project trees. Create a new Design artifact in Claud
   API. If Anthropic changes them, those sections fail and the task reports it; the other sections keep running.
 - Some project files have no downloadable original. They are listed in `meta.json` with a note instead.
 - Skills are read from Claude Code's local org sync, so they are only as current as the last time Claude Code synced.
+
+## License
+
+The template (scripts, prompt and README) is released under the [MIT License](LICENSE). The backup data your copy collects is yours and is not covered by it.
